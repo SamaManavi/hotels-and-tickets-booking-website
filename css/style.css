@@ -1,0 +1,220 @@
+@font-face {
+    font-family: 'IranNastaliq';
+    src: url(../font/IranNastaliq.eot),
+        url(../font/IranNastaliq.ttf),
+        url(../font/IranNastaliq.woff),
+        url(../font/IranNastaliq.woff2);
+}
+
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'IranNastaliq';
+    direction: rtl;
+}
+
+.top {
+
+    background-color: rgb(234, 234, 234);
+    border-bottom: 8px solid rgb(0, 0, 0);
+}
+
+.offcanvas {
+
+    background-color: lightgray;
+}
+
+.nav-link {
+
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.login img {
+
+    height: 25px;
+}
+
+.login a {
+
+    text-decoration: none;
+    color: black;
+}
+
+.date span {
+
+    font-weight: bold;
+}
+
+.date img {
+
+    width: 20%;
+}
+
+.date-mobile img{
+
+    width: 10%;
+}
+
+
+.logo img {
+
+    width: 20%;
+}
+
+.nav-item-tel a {
+
+    color: rgb(55, 54, 54) !important;
+}
+
+
+/* /////////////////////////////////////////////////////////////// */
+
+
+
+
+.content {
+
+    background: url(../image/content.jpg) no-repeat center/cover;
+    border: 2px solid black;
+}
+
+.content-train {
+
+    background: url(../image/train2.jpg) no-repeat center/cover;
+    border: 2px solid black;
+}
+
+.content-bus {
+
+    background: url(../image/bus-content.jpg) no-repeat center/cover;
+    border: 2px solid black;
+}
+
+.content-hotel {
+
+    background: url(../image/hotel\ 2.jpg) no-repeat center/cover;
+    border: 2px solid black;
+}
+
+.content-tour {
+
+    background: url(../image/tour.jpg) no-repeat center/cover;
+    border: 2px solid black;
+}
+
+.content-Insurance {
+
+    background: url(../image/content-Insurance.jpg) no-repeat center/cover;
+    border: 2px solid black;
+}
+
+.boxMenueContent {
+
+    background-color: #000000c7;
+    border-radius: 0 20px 20px 0;
+}
+
+.boxMenueContent ul {
+
+    list-style-type: none;
+}
+
+.boxMenueContent a {
+
+    text-decoration: none;
+}
+
+.dropdownMenueContent {
+
+    text-align: right;
+    color: white;
+}
+
+.dropdownMenueContent:hover {
+
+    width: 100%;
+    opacity: 0.8;
+    border-bottom: 1px dotted rgb(112, 111, 111);
+
+}
+
+.dropdownMenueContent img {
+
+    width: 18%;
+    background-color: #fffafac2;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.dropdownMenueContent img:hover {
+
+    background-color: rgba(255, 255, 255, 0.911);
+    transform: scale(1.1);
+}
+
+
+.boxformContent {
+
+    background-color: rgba(0, 0, 0, 0.498);
+    border-radius: 20px 0 0 20px;
+}
+
+/* @media(max-width : 992Px){
+
+    .boxformContent{
+
+        margin: 0 20px 0 20px;
+        border-radius: 20px;
+    }
+
+
+} */
+
+.boxformContent label {
+
+    color: white;
+    font-weight: bold;
+}
+
+.boxformContent input {
+
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.boxformContent input:focus {
+
+    outline: none;
+}
+
+.selectOption select {
+
+    border-radius: 15px;
+    border: 1px solid black;
+    display: block;
+}
+
+.change img {
+
+    transition: all 1s ease-in;
+}
+
+.change img:hover {
+
+    transform: scale(1.1) rotate(180deg);
+}
+
+/* //////////////////////////////////////////////////////////////////////// */
+
+.footer{
+
+    background-color: rgb(234, 234, 234) !important; 
+}
+
+.textAbout{
+
+    line-height: 1.8;
+}
