@@ -5,11 +5,11 @@
 
 ## 🌐 Live Demo
 
-👉 [View Demo](#)
+👉 [View Demo]( https://samamanavi.github.io/hotels-and-tickets-booking-website/)
 
 ## 🖼 Preview
 
-![Sama Travel Homepage Preview]()
+![Homepage Preview](https://github.com/SamaManavi/hotels-and-tickets-booking-website/blob/main/Screenshot%20(1).png?raw=true)
 
 ## ✨ Features
 
